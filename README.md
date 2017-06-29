@@ -1,2 +1,2 @@
 #workflow project
-a project for webdevelopment
+a project for web development
